@@ -550,7 +550,7 @@ def s11():
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
         idf.append(nmp)
-    with ThreadPool(max_workers=30) as RJ Raju Razz:
+    with ThreadPool(max_workers=30) as as crazy_xd:
         os.system('clear')
         banner2()
         idx = str(len(idf))
