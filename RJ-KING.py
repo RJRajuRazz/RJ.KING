@@ -437,24 +437,24 @@ frm = requests.get("http://ip-api.com/json/").json()["country"]
 
 def menu():
             os.system('clear');banner2();print(f'{P}[{warn}1{P}] File Cloning menu');print(f'{P}[{warn}2{P}] Remove Duplicate File');print(f'{P}[{warn}3{P}] Bd RJ-KING Random Cloning {H}Try');print(f'{P}[{warn}4{P}] Bd RJ-KING Random Cloning {K}Slow ');print(f'{P}[{warn}5{P}] Bd RJ-KING Cloning  ');print(f'{P}[{warn}6{P}] Pak RJ-KING  Random Cloning ');print(f'{P}[{warn}7{P}] Gmail Cloning ');print(f'{P}[{warn}8{P}] Follow me on Facebook');print(f'{P}[{RED}9{P}] {RED}Exit RJ Raju Razz Terminal');print(led)
-            RJ Raju Razz_nil=input(f'{P}[{warn}+{P}] Put Option {M}:{H} ')
-            if RJ Raju Razz_nil in ['1','01']:
+            RJRajuRazznil=input(f'{P}[{warn}+{P}] Put Option {M}:{H} ')
+            if RJRajuRazznil in ['1','01']:
                  crack_file()
-            elif RJ Raju Razz_nil in ['2','02']:
+            elif RJRajuRazznil in ['2','02']:
                 dupcutter()
-            elif RJ Raju Razz_nil in ['3','03']:
+            elif RJRajuRazznil in ['3','03']:
                 bd2()
-            elif RJ Raju Razz_nil in ['4','04']:
+            elif RJRajuRazznil in ['4','04']:
                 bd3()
-            elif RJ Raju Razz_nil in ['5','05']:
-                RJ Raju Razzx()
-            elif RJ Raju Razz_nil in ['6','06']:
+            elif RJRajuRazznil in ['5','05']:
+                RJRajuRazzx()
+            elif RJRajuRazznil in ['6','06']:
                 pk2()
-            elif RJ Raju Razz_nil in ['7','07']:
+            elif RJRajuRazznil in ['7','07']:
                 gmail()
-            elif RJ Raju Razz_nil in ['8','08']:
+            elif RJRajuRazznil in ['8','08']:
                 os.system('xdg-open https://www.facebook.com/profile.php?id=100046446651828');menu()
-            elif RJ Raju Razz_nil in ['9','09']:
+            elif RJRajuRazznil in ['9','09']:
                 clear();banner2();jalan(f'{P}[{M}√{P}] Hi Bro Your RJ-KING Terminal Closed {P} ')
             else:
                 exit(' Menu not found try again...')
